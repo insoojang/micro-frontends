@@ -1,0 +1,22 @@
+{
+  "name": "micro-frontends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insoojang/micro-frontends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insoojang/micro-frontends/issues"
+  },
+  "homepage": "https://github.com/insoojang/micro-frontends#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
